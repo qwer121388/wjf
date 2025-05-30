@@ -1,0 +1,1 @@
+The source code is used to calculate the fish stock variation. Here we construct four model to characterize the fish stock variation, including natural depletion, fish depletion, dam barrier-induced depletion and turbine-induced depletion. Finally, we construct a combined model to reflect the changes in fish population under the superposition of various factors.
